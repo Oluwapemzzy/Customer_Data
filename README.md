@@ -1,5 +1,7 @@
 # Customer_Data
-Customer Segmentation for a Subscription Service
+Customer Segmentation for a Subscription Service.
+
+I used the same excel workbook for both Project 1 and Project 2
 
 ## MICROSOFT EXCEL STEPS
 - I cleaned my dataset by selecting the dataset using ctrl+shift+end to select my dataset, then I clicked DATA on the toolbar then clicked on remove duplicates. This helped me removed any duplicate rows.
@@ -20,5 +22,6 @@ The goal is to understand the behavior of customers in terms of their subscripti
 This approach should provide a comprehensive overview of the subscription patterns within the data, allowing you to identify high-revenue areas, popular subscription types, and potential retention issues.
 
 
-
+### I calculated the average subscription duration using pivot table and identifed the most popular
+subscription types to be **BASIC**
 
