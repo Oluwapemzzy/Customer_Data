@@ -22,6 +22,16 @@ The goal is to understand the behavior of customers in terms of their subscripti
 This approach should provide a comprehensive overview of the subscription patterns within the data, allowing you to identify high-revenue areas, popular subscription types, and potential retention issues.
 
 
-### I calculated the average subscription duration using pivot table and identifed the most popular
+- I calculated the average subscription duration using pivot table and identifed the most popular
 subscription types to be **BASIC**
 
+
+##MY SQL
+1 retrieve the total number of customers from each region.
+o find the most popular subscription type by the number of customers.
+o find customers who canceled their subscription within 6 months.
+o calculate the average subscription duration for all customers.
+o find customers with subscriptions longer than 12 months.
+o calculate total revenue by subscription type.
+o find the top 3 regions by subscription cancellations.
+o find the total number of active and canceled subscriptions.
