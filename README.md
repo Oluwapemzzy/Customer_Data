@@ -15,15 +15,27 @@ subscription types.
 
 The goal is to understand the behavior of customers in terms of their subscriptions. I tried revealing the Subscription patterns by calculating insights such as:
   1. Which subscription types are most or least popular.
+ 
+ ![Subscription Type](https://github.com/user-attachments/assets/d3402ff5-ed27-4c87-880d-288d2ea0f683)
+
   2. Revenue generated per customer or per subscription type.
+ 
+  ![Revenue Generated](https://github.com/user-attachments/assets/8b61c6af-9b95-4f15-84cf-1bcfff90764a)
+
   3. The cancellation rates across different types or regions.
+ 
+  ![Cancelation Rate](https://github.com/user-attachments/assets/7e69f32e-f240-439c-b630-ae47cfe006cc)
+
   4. Average revenue generated per customer or per subscription Region.
+
+
 
 This approach should provide a comprehensive overview of the subscription patterns within the data, allowing you to identify high-revenue areas, popular subscription types, and potential retention issues.
 
 
 - I calculated the average subscription duration using pivot table and identifed the most popular
 subscription types to be **BASIC**
+
 
 
 ##MY SQL
