@@ -44,12 +44,36 @@ subscription types to be **BASIC**
 
 
 
-##MY SQL
-1 retrieve the total number of customers from each region.
-o find the most popular subscription type by the number of customers.
-o find customers who canceled their subscription within 6 months.
-o calculate the average subscription duration for all customers.
-o find customers with subscriptions longer than 12 months.
-o calculate total revenue by subscription type.
-o find the top 3 regions by subscription cancellations.
-o find the total number of active and canceled subscriptions.
+## MY SQL
+1. Retrieve the total number of customers from each region.
+
+![1](https://github.com/user-attachments/assets/16a36460-cd37-4c12-bcde-2eadaede36e7)
+
+2. Find the most popular subscription type by the number of customers.
+
+![2](https://github.com/user-attachments/assets/dc934b77-df89-4988-ba0b-babe932e53df)
+
+3. Find customers who canceled their subscription within 6 months.
+
+![3](https://github.com/user-attachments/assets/713d3955-222f-448c-b0f0-18b7c1e5b63c)
+
+4. Calculate the average subscription duration for all customers.
+
+![4](https://github.com/user-attachments/assets/41a4e964-7ab4-4af2-acb4-8b2c20c6bced)
+
+5. Find customers with subscriptions longer than 12 months.
+
+![Uploading 5.PNG…]()
+
+6. Calculate total revenue by subscription type.
+
+![6](https://github.com/user-attachments/assets/d9441172-85cd-4c89-952c-48b5d7ece02b)
+
+7. Find the top 3 regions by subscription cancellations.
+
+![7](https://github.com/user-attachments/assets/cbd43cd8-efdb-4fc8-837a-d1aea000d6ae)
+
+8. Find the total number of active and canceled subscriptions.
+
+![8](https://github.com/user-attachments/assets/6353b516-35f9-4636-94b0-ab6ac4c2c190)
+
