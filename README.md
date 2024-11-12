@@ -1,4 +1,4 @@
-# Customer_Data
+# Customer Data
 Customer Segmentation for a Subscription Service.
 
 I used the same excel workbook for both Project 1 and Project 2
@@ -28,13 +28,19 @@ The goal is to understand the behavior of customers in terms of their subscripti
 
   4. Average revenue generated per customer or per subscription Region.
 
+  ![Average Revenue](https://github.com/user-attachments/assets/824f4bc1-6280-496a-9c7b-1fa354c63396)
 
+  5. Average Duration
+
+  ![Average Duration](https://github.com/user-attachments/assets/e01c4ec0-03e7-47c4-948a-8275bc9ec2d6)
 
 This approach should provide a comprehensive overview of the subscription patterns within the data, allowing you to identify high-revenue areas, popular subscription types, and potential retention issues.
 
 
 - I calculated the average subscription duration using pivot table and identifed the most popular
 subscription types to be **BASIC**
+
+![Basic](https://github.com/user-attachments/assets/d902607a-9224-4849-a8e2-2ba98fb7526c)
 
 
 
